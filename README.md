@@ -1,6 +1,6 @@
 # DarwinDispatch
 ## 🚀 Overview
-GenetiCargo is a **Vehicle Routing Problem (VRP) solver** that leverages **Genetic Algorithms (GA)** to optimize delivery routes for multiple vehicles. By balancing **total travel distance** and **route fairness**, this project provides an adaptive approach to real-world logistics challenges.
+DarwinDispatch is a **Vehicle Routing Problem (VRP) solver** that leverages **Genetic Algorithms (GA)** to optimize delivery routes for multiple vehicles. By balancing **total travel distance** and **route fairness**, this project provides an adaptive approach to real-world logistics challenges.
 
 ## 🏆 Features
 - 📌 **Multi-Vehicle Route Optimization**: Efficiently assigns delivery points to vehicles.
@@ -13,11 +13,7 @@ GenetiCargo is a **Vehicle Routing Problem (VRP) solver** that leverages **Genet
 1. Clone the repository:
    ```bash
    git clone https://github.com/Tarunbhati100/DarwinDispatch.git
-   cd GenetiCargo
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+   cd DarwinDispatch
    ```
 
 ## 📜 Usage
